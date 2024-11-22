@@ -5,8 +5,8 @@ Follow these steps to install and set up your development environment.
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo
-cd your-repo
+git clone https://github.com/drjoeycadieux/platform
+cd platform
 ```
 
 ## Step 2: Install Dependencies

@@ -9,6 +9,6 @@ Techtack-Technologies provides developers with powerful tools and resources to b
 ## Prerequisites
 
 Before you begin, make sure you have:
-- Node.js installed (version 14 or higher)
+- Node.js installed (version 20 or higher)
 - Basic understanding of web development
 - Git installed on your system
