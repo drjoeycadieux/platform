@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'Techtack-Technologies',
+  title: 'Techtack-Technologies Inc.',
   description: 'The most advanced platform for developers',
 
   themeConfig: {
