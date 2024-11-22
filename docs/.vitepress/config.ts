@@ -6,7 +6,7 @@ export default defineConfig({
   description: 'The most advanced platform for developers',
 
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/tboss.png',
     
     nav: [
       { text: 'Home', link: '/' },
